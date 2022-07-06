@@ -1,3 +1,4 @@
+# חלק 1
 # AngularSandbox
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
@@ -26,6 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+# חלק 2
 
 <!--אני יצטרך ממך עזרה בבקשה לפני שיעור יש לי ביעה בטרמיל של סטידו קוד ובcmd שלי->
 שיעורי בית הם לא קשיים כי שיעורי בית זה מה שכתוב במצגת אחד לאחד פשוט משהוא לא בסדר אצלי תוכל בבקשה בזמן הפסקה הוא לפני שיעור לעזור 
